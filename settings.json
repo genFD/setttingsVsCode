@@ -1,0 +1,54 @@
+{
+ "editor.fontSize": 26,
+ "editor.tabSize": 1,
+ "editor.wordWrap": "on",
+ "workbench.colorTheme": "Tomorrow Night Blue",
+ "javascript.updateImportsOnFileMove.enabled": "always",
+ "[javascript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+ },
+ "emmet.includeLanguages": {
+  "javascript": "javascriptreact",
+  "typescript": "typescriptreact"
+ },
+ "diffEditor.wordWrap": "on",
+ "prettier.jsxBracketSameLine": true,
+ "prettier.jsxSingleQuote": true,
+ "prettier.singleQuote": true,
+ "editor.formatOnPaste": true,
+ "editor.fontFamily": "Operator Mono Lig",
+ "editor.fontLigatures": true,
+ "editor.fontWeight": "normal",
+ "[html]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+ },
+ "liveServer.settings.donotShowInfoMsg": true,
+ "editor.tokenColorCustomizations": {
+  "comments": "#97B1A6"
+ },
+ "indentRainbow.ignoreLinePatterns": [
+  "/[ \t]* [*]/g",
+  "/[ \t]+[/]{2}/g"
+ ],
+ "workbench.iconTheme": "material-icon-theme",
+ "workbench.productIconTheme": "fluent-icons",
+ "vsicons.dontShowNewVersionMessage": true,
+ "html.format.indentInnerHtml": true,
+ "path-intellisense.mappings": {},
+ "terminal.integrated.defaultProfile.windows": "C:\\Program Files\\Git\\bin\\bash.exe (migrated)",
+ "terminal.integrated.profiles.windows": {
+  "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+   "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+   "args": []
+  }
+ },
+ "editor.accessibilitySupport": "off",
+ "workbench.startupEditor": "none",
+ "[json]": {
+  "editor.defaultFormatter": "vscode.json-language-features"
+ },
+ "bracket-pair-colorizer-2.depreciation-notice": false,
+ "bracketPairColorizer.depreciation-notice": false,
+ "window.zoomLevel": 1,
+ "editor.formatOnSave": true,
+}
